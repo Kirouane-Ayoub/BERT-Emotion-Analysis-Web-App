@@ -24,7 +24,7 @@ The model expects text input in the form of a string.
 
 ### Output Format
 
-+ The model provides a DataFrame of labels and associated scores, indicating the predicted emotions and their confidence scores.
++ The model provides a data frame of labels and associated scores, indicating the predicted emotions and their confidence scores.
 
 ## Limitations
 
@@ -46,6 +46,6 @@ When using this app or model, it's essential to consider the ethical implication
 pip install -r requirements.txt
 python app.py
 ```
-
+Check the demo from here: **https://huggingface.co/spaces/ayoubkirouane/BERT-Emotions-Classifier**
 
 ![Screenshot at 2023-09-23 22-22-35](https://github.com/Kirouane-Ayoub/BERT-Emotion-Analysis-Web-App/assets/99510125/40df807b-c75d-4dd3-8e1b-c7cbe02e3315)
