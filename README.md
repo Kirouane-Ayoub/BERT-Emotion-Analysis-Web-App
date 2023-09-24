@@ -49,3 +49,5 @@ python app.py
 **Check the demo from here**: **https://huggingface.co/spaces/ayoubkirouane/BERT-Emotions-Classifier**
 
 ![Screenshot at 2023-09-23 22-22-35](https://github.com/Kirouane-Ayoub/BERT-Emotion-Analysis-Web-App/assets/99510125/40df807b-c75d-4dd3-8e1b-c7cbe02e3315)
+
+- **By Kirouane Ayoub**
